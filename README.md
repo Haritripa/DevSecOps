@@ -58,6 +58,6 @@ services:
 		ports:
 			- "8080:8080"
 		environment:
-			- JAVA_OPTS=-Xmx256m
-```
+			- JAVA_OPTS=-Xmx256m``
 
+            
