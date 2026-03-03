@@ -61,4 +61,3 @@ services:
 			- JAVA_OPTS=-Xmx256m
 ```
 
-That's it — build your JAR, build or run the image, and access your app on the mapped port.
